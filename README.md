@@ -38,12 +38,12 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?
 
   - `id`, numeric value with no decimal places that should auto-increment.
   - `name`, string
-  - `budget` numeric value.
+  - `budget` numeric value..
 
 - constraints
   - the `id` should be the primary key for the table.
   - account `name` should be required and unique.
-  - account `budget` is required.
+  - account `budget` is required. 
 
 #### Database Access
 
